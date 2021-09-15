@@ -1,1 +1,1 @@
-"# spring-blog" 
+# simple blog application on spring boot.
